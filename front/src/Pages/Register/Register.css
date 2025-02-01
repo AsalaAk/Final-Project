@@ -1,0 +1,18 @@
+.formParent {
+    padding-top: 20px;
+}
+
+.labelStyling {
+    padding-left: 10px;
+
+}
+
+.formChildren {
+    padding: 5px;
+
+}
+
+.submitButton {
+    padding: 5px;
+    margin-top: 10px;
+}

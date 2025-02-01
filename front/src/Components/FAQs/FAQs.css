@@ -1,0 +1,25 @@
+.faq-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.question {
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.toggle-icon {
+    font-size: 20px;
+}
+
+.answer {
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.answer p {
+    margin: 0;
+    padding: 10px 0;
+}
